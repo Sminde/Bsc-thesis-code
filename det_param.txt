@@ -1,0 +1,11 @@
+[filters]
+flo: 70
+fhi: 120
+
+[thresh]
+ton: 8.5
+toff: 3.0
+
+[window]
+sta_win: 0.2
+lta_win: 2
